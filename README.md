@@ -401,7 +401,7 @@ This demo shows:
 
 Watch the demo:
 
-[https://youtube.com/YOUR_MODULE1_VIDEO_LINK](https://youtu.be/Cc3gLWlLt3U)
+[https://youtube.com/MODULE1_VIDEO_LINK](https://youtu.be/Cc3gLWlLt3U)
 
 ---
 
@@ -415,7 +415,8 @@ This demo shows:
 
 Watch the demo:
 
-[https://youtube.com/YOUR_MODULE3_VIDEO_LINK](https://youtu.be/W1VUGBMM_0E)
+[https://youtube.com/MODULE3_VIDEO_LINK](https://youtu.be/W1VUGBMM_0E)
+
 ---
 
 # 📌 Evaluation Criteria Alignment
