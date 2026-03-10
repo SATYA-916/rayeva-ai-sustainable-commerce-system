@@ -401,7 +401,7 @@ This demo shows:
 
 Watch the demo:
 
-[https://youtube.com/MODULE1_VIDEO_LINK](https://youtu.be/Cc3gLWlLt3U)
+[Watch Module 1 Demo](https://youtu.be/Cc3gLWlLt3U)
 
 ---
 
@@ -415,7 +415,7 @@ This demo shows:
 
 Watch the demo:
 
-[https://youtube.com/MODULE3_VIDEO_LINK](https://youtu.be/W1VUGBMM_0E)
+[Watch Module 3 Demo](https://youtu.be/W1VUGBMM_0E)
 
 ---
 
