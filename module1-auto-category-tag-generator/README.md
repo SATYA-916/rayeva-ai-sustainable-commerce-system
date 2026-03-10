@@ -1,7 +1,5 @@
 # AI Auto-Category & Tag Generator
 
-![AI Eco-Categorizer Demo](https://via.placeholder.com/800x400?text=AI+Eco-Categorizer)
-
 An intelligent, full-stack application that leverages advanced AI to automatically categorize sustainable products. 
 Given a product name and description, this system determines the optimal primary category, suggests a subcategory, generates SEO tags, identifies relevant sustainability filters, and provides a confidence score.
 
