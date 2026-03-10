@@ -389,14 +389,33 @@ npm run dev
 
 ---
 
-# 🎥 Demo
+# 🎥 Demo Videos
 
-A demo video demonstrates:
+### Module 1 – AI Auto Category & Tag Generator
 
-* AI product categorization
-* Impact report generation
-* System architecture overview
+This demo shows:
+- Product input
+- AI category generation
+- SEO tags and sustainability filters
+- History dashboard
 
+Watch the demo:
+
+[https://youtube.com/YOUR_MODULE1_VIDEO_LINK](https://youtu.be/Cc3gLWlLt3U)
+
+---
+
+### Module 3 – AI Impact Reporting Generator
+
+This demo shows:
+- Product selection
+- Quantity input
+- Environmental impact calculation
+- AI generated sustainability report
+
+Watch the demo:
+
+[https://youtube.com/YOUR_MODULE3_VIDEO_LINK](https://youtu.be/W1VUGBMM_0E)
 ---
 
 # 📌 Evaluation Criteria Alignment
