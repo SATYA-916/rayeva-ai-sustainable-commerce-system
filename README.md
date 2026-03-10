@@ -107,6 +107,51 @@ module3-impact-report-generator
 ```
 
 ---
+# 📸 Demo Screenshots
+
+## Module 1 – AI Auto Category & Tag Generator
+
+### Product Input
+
+User enters product name and description.
+
+![Module 1 Input](screenshots/module1-input.png)
+
+---
+
+### AI Generated Result
+
+The AI returns category, SEO tags, sustainability filters and confidence score.
+
+![Module 1 Result](screenshots/module1-result.png)
+
+---
+
+### History Dashboard
+
+All previously generated AI results are stored in MongoDB and shown in the history page.
+
+![Module 1 History](screenshots/module1-history.png)
+
+---
+
+## Module 3 – AI Impact Reporting Generator
+
+### Impact Report Input
+
+User selects product and quantity.
+
+![Module 3 Input](screenshots/module3-input.png)
+
+---
+
+### Generated Environmental Impact Report
+
+AI calculates plastic saved and carbon emissions avoided and generates a sustainability statement.
+
+![Module 3 Result](screenshots/module3-result.png)
+
+---
 
 # 🏗 System Architecture Overview
 
