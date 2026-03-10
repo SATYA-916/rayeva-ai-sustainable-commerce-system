@@ -1,0 +1,110 @@
+﻿[dotenv@17.3.1] injecting env (3) from .env -- tip: ≡ƒöÉ prevent committing .env to code: https://dotenvx.com/precommit
+node : node:internal/mo
+dules/cjs/loader:1404
+At line:1 char:1
++ node server.js > 
+error.log 2>&1
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (node:internal   
+ /modules/cjs/loade    
+r:1404:String) [],     
+RemoteException
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
+  throw err;
+  ^
+
+Error: Cannot find 
+module '@google/genai'
+Require stack:
+- C:\Users\zywu8\OneDri
+ve\Documents\WEB\AI 
+Auto-Category & Tag Gen
+erator\backend\services
+\aiService.js
+- C:\Users\zywu8\OneDri
+ve\Documents\WEB\AI 
+Auto-Category & Tag Gen
+erator\backend\controll
+ers\aiController.js
+- C:\Users\zywu8\OneDri
+ve\Documents\WEB\AI 
+Auto-Category & Tag Gen
+erator\backend\routes\a
+iRoutes.js
+- C:\Users\zywu8\OneDri
+ve\Documents\WEB\AI 
+Auto-Category & Tag Gen
+erator\backend\server.j
+s
+    at Function._resolv
+eFilename (node:interna
+l/modules/cjs/loader:14
+01:15)
+    at 
+defaultResolveImpl (nod
+e:internal/modules/cjs/
+loader:1057:19)
+    at 
+resolveForCJSWithHooks 
+(node:internal/modules/
+cjs/loader:1062:22)
+    at Function._load (
+node:internal/modules/c
+js/loader:1211:37)
+    at TracingChannel.t
+raceSync (node:diagnost
+ics_channel:322:14)
+    at wrapModuleLoad (
+node:internal/modules/c
+js/loader:235:24)
+    at Module.require (
+node:internal/modules/c
+js/loader:1487:12)
+    at require (node:in
+ternal/modules/helpers:
+135:16)
+    at 
+Object.<anonymous> (C:\
+Users\zywu8\OneDrive\Do
+cuments\WEB\AI 
+Auto-Category & Tag Gen
+erator\backend\services
+\aiService.js:1:25)
+    at Module._compile 
+(node:internal/modules/
+cjs/loader:1730:14) {
+  code: 
+'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\zywu8\\
+OneDrive\\Documents\\WE
+B\\AI Auto-Category & 
+Tag Generator\\backend\
+\services\\aiService.js
+',
+    'C:\\Users\\zywu8\\
+OneDrive\\Documents\\WE
+B\\AI Auto-Category & 
+Tag Generator\\backend\
+\controllers\\aiControl
+ler.js',
+    'C:\\Users\\zywu8\\
+OneDrive\\Documents\\WE
+B\\AI Auto-Category & 
+Tag Generator\\backend\
+\routes\\aiRoutes.js',
+    'C:\\Users\\zywu8\\
+OneDrive\\Documents\\WE
+B\\AI Auto-Category & 
+Tag Generator\\backend\
+\server.js'
+  ]
+}
+
+Node.js v22.16.0
