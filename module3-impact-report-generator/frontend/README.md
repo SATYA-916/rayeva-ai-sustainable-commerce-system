@@ -18,8 +18,8 @@ Clean Slate AI is an application providing sustainability impact reports on vari
 2. **Configure Environment Variables:**
    A `.env` file should be present in the root directory containing the database and API keys:
    ```env
-   GEMINI_API_KEY=AIzaSyCbXWHJpYn2OYfk9mCM83_pRUQ3EkKfLKA
-   MONGO_URI=mongodb+srv://zywu801:Satya123@cluster0.t47bcbv.mongodb.net/ai_catalog?retryWrites=true&w=majority
+   GEMINI_API_KEY=your_api_key
+   MONGODB_URI=your_mongodb_connection
    ```
 
 ## Running the Application
