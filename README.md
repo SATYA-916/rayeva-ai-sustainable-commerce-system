@@ -1,5 +1,11 @@
 # 🌍 Rayeva AI Sustainable Commerce System
 
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)
+![AI](https://img.shields.io/badge/AI-Google%20Gemini-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 AI-powered modules designed for **sustainable commerce automation**.
 This project demonstrates how modern AI systems can automate product categorization, environmental impact reporting, B2B proposal generation, and customer support.
 
@@ -16,6 +22,25 @@ This system introduces **AI-driven modules** to automate these tasks while ensur
 The project implements two modules fully and provides architecture design for the remaining modules.
 
 ---
+## 🏗 System Architecture
+
+```mermaid
+flowchart TD
+
+User[User] --> Frontend[React Frontend]
+
+Frontend --> API[Node.js Express API]
+
+API --> DB[(MongoDB Database)]
+
+API --> AI[AI Processing Layer]
+
+AI --> Gemini[Google Gemini API]
+
+Gemini --> API
+
+API --> Frontend
+```
 
 # 🧩 Implemented Modules
 
