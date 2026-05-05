@@ -1,4 +1,4 @@
-# 🌍 Rayeva AI Sustainable Commerce System
+# 🌍 AI Sustainable Commerce System
 
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
 ![React](https://img.shields.io/badge/React-Frontend-blue)
