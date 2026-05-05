@@ -9,7 +9,7 @@
 AI-powered modules designed for **sustainable commerce automation**.
 This project demonstrates how modern AI systems can automate product categorization, environmental impact reporting, B2B proposal generation, and customer support.
 
-Built as part of the **Rayeva AI Systems Assignment**, the system focuses on **production-ready AI integration, structured outputs, and clean architecture**.
+Built as part of the ** AI Systems Assignment**, the system focuses on **production-ready AI integration, structured outputs, and clean architecture**.
 
 ---
 
@@ -447,6 +447,6 @@ Potential improvements include:
 
 # 👨‍💻 Author
 
-Developed as part of the **Rayeva AI Systems Internship Assignment**.
+Developed as part of the ** AI Systems Internship Assignment**.
 
 This project demonstrates **full-stack AI engineering, prompt design, sustainable commerce automation, and scalable architecture design**.
